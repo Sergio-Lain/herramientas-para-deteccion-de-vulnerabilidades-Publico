@@ -1,0 +1,7 @@
+start_directory: /home/matt/dev/class/herramientas-para-deteccion-de-vulnerabilidades-Publico
+session_name: herramientas-para-deteccion-de-vulnerabilidades-Publico
+windows:
+  - window_name: editor
+    panes:
+      - shell_command:
+          - nvim
